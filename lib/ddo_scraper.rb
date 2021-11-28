@@ -1,0 +1,5 @@
+require_relative './ddo_scraper/mirror'
+require_relative './ddo_scraper/page'
+require_relative './ddo_scraper/query_results'
+require_relative './ddo_scraper/udtale'
+require_relative './ddo_scraper/url'
